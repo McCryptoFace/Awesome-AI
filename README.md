@@ -1,4 +1,4 @@
-# [Awesome AI](https://github.com/McCryptoFace/Awesome-AI) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20AI%20-%20an%20artisanal%20farm-to-table%20collection%20of%20awesome%20resources%20for%20AI%2FML%20learning%2C%20ethics%2C%20and%20security%20research%20by%20@McCryptoFace&url=https://github.com/McCryptoFace/Awesome-AI&hashtags=genai,llm,security,hacking)
+# [Awesome AI](https://github.com/McCryptoFace/Awesome-AI) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20AI%20-%20a%20curated%20list%20of%20awesome%20resources%20for%20AI%2FML%20learning%2C%20ethics%2C%20and%20security%20research%20by%20@McCryptoFace&url=https://github.com/McCryptoFace/Awesome-AI&hashtags=llm,ai,genai,hacking) ![Twitter Follow](https://img.shields.io/twitter/follow/McCryptoFace) ![Mastodon Follow](https://img.shields.io/mastodon/follow/110652864476108445?domain=https%3A%2F%2Finfosec.exchange)
 
 **An artisanal farm-to-table collection of awesome resources for AI/ML learning, ethics, and security research.**
 
