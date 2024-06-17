@@ -13,6 +13,8 @@ Repository | Description
 [Counterfit](https://github.com/Azure/counterfit) | ML testing tool by Azure Red Team
 
 ## AI/ML Learning & Education
+
+Name | Description
 ---- | ----
 [HuggingFace Learning](https://huggingface.co/learn) | HuggingFace Learning
 [Kaggle Learning](https://www.kaggle.com/learn) | Kaggle Learning
@@ -20,7 +22,7 @@ Repository | Description
 
 ## Competitive Learning
 
-Title | Description
+Name | Description
 ---- | ----
 [A Wild Link Appears](https://github.com/alink2/linkme) | It's super effective!
 [HackTheBox - FullHouse](https://www.hackthebox.com/blog/fullhouse-ai-lab) | FullHouse AI bypass and exploitation lab environment
@@ -29,6 +31,7 @@ Title | Description
 [Crucible](https://crucible.dreadnode.io) | Crucible - Your AI Hacking Playground
 
 ## Dev and Deployment Hosting Platforms
+Name | Description
 ---- | ----
 [Kaggle](https://kaggle.com) | Platform for sharing and stress-testing ML models, community model/data/code repositories
 [HuggingFace](https://huggingface.co) | HuggingFace
@@ -37,6 +40,11 @@ Title | Description
 [Vast.ai](https://vast.ai) | Affordable Docker-based hosting with interruptible GPU pricing for batch jobs and other low-priority use cases
 [CUDO Compute](https://www.cudocompute.com) | On-demand GPU hosting with Terraform deployment options
 [RunPod](https://runpod.io) | Deploy HuggingFace models with OpenAI API compatibility via Homebrew-installed CLI tools
+
+## Language Model APIs
+Name | Description
+---- | ----
+[Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) | Soulter's unofficial HuggingChat API
 
 
 ## Communities
@@ -47,10 +55,12 @@ Name | Description
 [AI Village Discord](https://discord.gg/c4hAzeRNGC) | DEFCON AI Village Discord server
 
 ## GenAI Image Platforms
+Name | Description
 ---- | ----
 [Midjourney](https://midjourney.org) | Midjourney (CHECK LINK URL)
 
 ## GenAI Audio/Video Platforms
+Name | Description
 ---- | ----
 [Suno](https://suno.ai) | Suno music generation (CHECK LINK URL)
 
