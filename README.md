@@ -46,6 +46,10 @@ Name | Description
 ---- | ----
 [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) | Soulter's unofficial HuggingChat API
 
+## AI-Assisted Coding
+Name | Description
+---- | ----
+[Double](https://docs.double.bot/introduction) | Double - AI Coding Assistant plugin for VS Code
 
 ## Communities
 
