@@ -3,10 +3,10 @@
 **An artisanal farm-to-table collection of awesome resources for AI/ML learning, ethics, and security research.**
 
 ## Offensive Tooling
-
+Name | Description
+---- | ----
 Repository | Description
 ---- | ----
-[A Link](https://github.com/alink/link-goes-here) | Collection of collections to collect collections for collectors to collect
 [Garak](https://github.com/leondz/garak) | Open-source LLM vulnerability scanner
 [LLMFuzzer](https://github.com/mnns/LLMFuzzer) | LLM fuzzing tool (no longer maintained)
 [PyRIT](https://github.com/Azure/PyRIT/tree/main) | AI testing tool by Azure Red Team
@@ -24,7 +24,6 @@ Name | Description
 
 Name | Description
 ---- | ----
-[A Wild Link Appears](https://github.com/alink2/linkme) | It's super effective!
 [HackTheBox - FullHouse](https://www.hackthebox.com/blog/fullhouse-ai-lab) | FullHouse AI bypass and exploitation lab environment
 [AI Village CTF (DC30)](https://www.kaggle.com/competitions/ai-village-ctf) | DEFCON 30 AI Village CTF (2022)
 [AI Village CTF (DC31)](https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31) | DEFCON 31 AI Village CTF (2023)
@@ -44,7 +43,43 @@ Name | Description
 ## Language Model APIs
 Name | Description
 ---- | ----
+[OpenAI API v1.0.0 Migration Guide](https://github.com/openai/openai-python/discussions/742) | Migration guide for updating OpenAI API calls to v1.0.0
 [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) | Soulter's unofficial HuggingChat API
+[BerriAI/LiteLLM](https://github.com/BerriAI/litellm) | LiteLLM translates LLM queries into >30 provider-specific formats
+[LiteLLM - Getting Started](https://docs.litellm.ai/docs/) | LiteLLM API reference
+[langfuse/langfuse](https://github.com/langfuse/langfuse?tab=readme-ov-file) | Platform for debuging, analyzing, and iterating on LLM applications
+
+## LLM Libraries and Utilities
+Name | Description
+---- | ----
+[prometheus-eval/prometheus-eval(https://github.com/prometheus-eval/prometheus-eval) | An API wrapper for [Prometheus](https://prometheus.io) metrics on LLM queries
+
+## Discord Bot APIs
+Name | Description
+---- | ----
+[Rapptz/discord.py](https://github.com/Rapptz/discord.py) | The most popular Python API for Discord
+[discord.py API Reference](https://discordpy.readthedocs.io) | API reference for Rapptz/Discord.py
+[Pycord-Development/pycord](https://github.com/Pycord-Development/pycord?tab=readme-ov-file) | Popular alternative to discord.py
+[nextcord/nextcord](https://github.com/nextcord/nextcord) | Another discord.py alternative
+[dolfies/discord.py-self](https://github.com/dolfies/discord.py-self) | The most popular Discord selfbot API wrapper library
+
+## Discord Bots and Templates
+Name | Description
+---- | ----
+[kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) | Python Discord bot template
+
+
+## Discord Bot Libraries, Cogs, Etc.
+Name | Description
+---- | ----
+[lovvskilz/python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook) | Webhook library for Discord
+[KBotsWork/discore](https://github.com/KBotsWork/discore) | Discore build core for Discord bots
+[Sitois/Latency](https://github.com/Sitois/Latency) | Simple Discord selfbot manager using discord.py
+[Mahtoid/DiscordChatExporterPy](https://github.com/mahtoid/DiscordChatExporterPy) | Discord Chat Exporter utility
+[tuna2134/discord-ext-songbird](https://github.com/tuna2134/discord-ext-songbird) | Rust voice client for discord.py (macOS/Linux only!)
+[strawberry-py/strawberry-py](https://github.com/strawberry-py/strawberry-py) | Discord bot framework based on discord.py
+[Apollo-Roboto/discord.py-ext-prometheus](https://github.com/Apollo-Roboto/discord.py-ext-prometheus) | Provides [Prometheus](https://prometheus.io] metrics with Grafana dashboard for Discord bots
+
 
 ## AI-Assisted Coding
 Name | Description
